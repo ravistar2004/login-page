@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.content-box3{
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px 10px 0px;
+    margin: 0px 0px 10px 0px;
+}
+
+.insta {
+    background-color: #FFFFFF;
+    height: 670px;
+}
+
+
+.lang {
+    background-image: url(instagram.png);
+    height: 80px;
+    width: 175px;
+   
+    background-size: cover;
+   
+ 
+}
+form {
+    height: 274px;
+}
+
+.input {
+   
+    height: 36px;
+    width: 260px;
+    border:1px solid #DBDBDB;
+    border-radius:4px;
+    padding: 4px;
+    margin-bottom: 8px;
+    margin-top: 6px;
+    
+    
+}
+.text-box {
+    text-align: center;
+    margin-bottom: 30px;
+   
+}
+
+.button {
+    height: 32px;
+    width: 268px;
+    background-color: #4CB4F8;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    margin: 9px;
+
+}
+.or {
+    margin: 20px;
+}
+
+
+.logo {
+    background-image: url(facebook.png);
+    height: 23px;
+    width: 23px;
+    background-size: cover;
+    
+    margin-right:9px ;
+    
+}
+.log {
+    font-size: 14px;
+}
+.text1 {
+display:flex;
+justify-content: center;
+align-items: center;
+
+}
+.text {
+    display: flex;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: 0;
+    margin-top: 1rem;
+    margin-bottom: 10px;
+    
+}
+.content-box {
+    height: 61px;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    color: #000000;
+}
+.text3 {
+    text-align: center;
+} 
+.text3 img {
+    height: 40px;
+}
+.get {
+    margin-bottom: 12px;
+}
+.content-box span {
+    color: #0095F6;
+}
+.final{
+    height: 129px;
+    margin-bottom: 52px;
+    text-align: center;
+    color: #737373;
+ 
+}
+.final span {
+    text-align: center;
+}
+footer {
+    height: 181px;
+}
+
+.foot-content span {
+    padding: 0.50rem;
+    font-size: 14px;
+    
+}
+.foot-content2 {
+    margin-top: 1rem;
+}
+#lang {
+    border: none;
+    color: #737373;
+}
